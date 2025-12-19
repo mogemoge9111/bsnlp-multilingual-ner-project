@@ -1,0 +1,75 @@
+document_id,gold_answer,entity,deepseek_input
+bg_brexit_bg.txt_file_413.txt,Доналд Туск,PER,"Analyze this text and classify entity ""Доналд Туск"" as PER, ORG, LOC, EVT, or PRO:
+
+Text: ЕС се готви да втвърди условията за преходния период след Брекзит
+
+Свободата на Великобритания да определя собствените си правила за имиграцията, търговията и рибарството по време на преходния период може да бъде допълнително ограничена според ревизирани насоки на Европейския съюз за прехода, предаде Би Би Си. Според чернова на документа пълната свобода на движение ще бъде удължена до началото на 2021 г. Великобритания освен това ще се нуждае от ""разрешение"", за да се възползва от съществуващите... [truncated]
+Entity: Доналд Туск
+
+Provide ONLY the entity type code:"
+ru_asia_bibi_ru.txt_file_113.txt,Верховный суд,ORG,"Analyze this text and classify entity ""Верховный суд"" as PER, ORG, LOC, EVT, or PRO:
+
+Text: Верховный суд Пакистана отменил смертный приговор обвиненной в богохульстве христианке
+
+Верховный суд Пакистана оправдал христианку Асию Биби, приговоренную в 2010 году к смертной казни за богохульство. Об этом сообщает Причиной для смертного приговора стали оскорбления в адрес пророка Мухаммада, которые Асия Биби якобы произнесла во время ссоры с группой соседок. Инцидент произошел в 2009 году во время сбора урожая фруктов. Группа женщин обвинила Биби в том, что та выпила воды из общего ведра и... [truncated]
+Entity: Верховный суд
+
+Provide ONLY the entity type code:"
+bg_brexit_bg.txt_file_1230.txt,The Independent,PRO,"Analyze this text and classify entity ""The Independent"" as PER, ORG, LOC, EVT, or PRO:
+
+Text: Преглед на основните теми в британския печат (Агенция
+
+Британският министър по въпросите, свързани с Брекзит, Дейвид Дейвис съобщи, че бъдещите търговски отношения след Брекзит между страната му и ЕС „представляват добра рамка“ за работническите права, но профсъюзите са на обратно мнение, пише Daily Mirror. Министърът иска Великобритания да сключи с ЕС споразумение, подобно на това между Съюза и Канада, след като страната му излезе от обединението. Според профсъюзите споразумението с Канада един... [truncated]
+Entity: The Independent
+
+Provide ONLY the entity type code:"
+bg_brexit_bg.txt_file_1773.txt,Брекзит,EVT,"Analyze this text and classify entity ""Брекзит"" as PER, ORG, LOC, EVT, or PRO:
+
+Text: Натискат деликатно Тереза Мей за ""безрискова търговия"" с ЕС
+
+Британски бизнес лидери предупредиха премиера Тереза ​​Мей, че поддържането на безрискова търговия с Европейския съюз след Брекзит е по-важно от всички митнически тарифи, съобщи Ройтерс. Агенцията се позовава на пожелал анонимност източник. Британските бизнес лидери имаха среща с Тереза Мей. Там са присъствали шефовете на фармацевтичния гигант GlaxoSmithKline, супермаркета Tesco, производителя на автомобили Aston Martin, телекомуникаци... [truncated]
+Entity: Брекзит
+
+Provide ONLY the entity type code:"
+cs_brexit_cs.txt_file_1039.txt,BuzzFeed,ORG,"Analyze this text and classify entity ""BuzzFeed"" as PER, ORG, LOC, EVT, or PRO:
+
+Text: Johnson kritizuje Londýn za jednání o brexitu. ‚Chce to víc odvahy,‘ řekl na nahrávce
+
+Britský ministr zahraničí a zastánce brexitu Boris Johnson kritizuje přístup britské vlády k jednání o odchodu z unie. V nahrávce, kterou získal americký server BuzzFeed, vytýká kabinetu nedostatek odvahy. Londýn 16:26 8. června 2018
+
+Britský ministr zahraničí Boris Johnson | Foto: Toby Melville | Zdroj: Reuters. Johnson dále na soukromé večeři řekl, že rozhovory o brexitu míří ke krachu. Upozornil, že Velká B... [truncated]
+Entity: BuzzFeed
+
+Provide ONLY the entity type code:"
+cs_brexit_cs.txt_file_1318.txt,Mayovou,PER,"Analyze this text and classify entity ""Mayovou"" as PER, ORG, LOC, EVT, or PRO:
+
+Text: Labouristé chtějí po brexitu celní unii s EU. Tlak na Mayovou sílí, ve hře jsou i předčasné volby
+
+Na úvod svého projevu prohlásil, že respektuje výsledky referenda. Nyní se chce zasadit za vyjednání co nejlepší dohody s unií, jež bude brát v potaz zachování pracovních míst a životní úrovně. Jeho cílem je zajistit, aby nevznikly žádné celní bariéry, a současně zamezit obnovení přísných kontrol na hranicích mezi Severním Irskem a Irskem. Corbyn si podle svých slov uvědomuje, že když Británie nezů... [truncated]
+Entity: Mayovou
+
+Provide ONLY the entity type code:"
+bg_brexit_bg.txt_file_487.txt,Лондон,LOC,"Analyze this text and classify entity ""Лондон"" as PER, ORG, LOC, EVT, or PRO:
+
+Text: Лондон иска финансовите услуги да се включат в търговската сделка с ЕС за Брекзит
+
+Дейвид Дейвис Великобритания иска да включи финансовите услуги в търговската сделка с Европейския съюз, заяви британския министър за Брекзит Дейвид Дейвис, цитиран от ""Ройтерс"". След като главният преговарящ на ЕС за Брекзит Мишел Барние изрази съмнение за включването на финансовите услуги в сделката за свободна търговия, Дейвис отбеляза, че всяко споразумение, изключващо финансите, би било тенденциозно подбиране.... [truncated]
+Entity: Лондон
+
+Provide ONLY the entity type code:"
+ru_brexit_ru.txt_file_10.txt,брексит,EVT,"Analyze this text and classify entity ""брексит"" as PER, ORG, LOC, EVT, or PRO:
+
+Text: Тереза Мэй рассчитывает усидеть в седле до завершения процедуры Brexit
+
+Тем не менее, по сведениям британских СМИ, на предстоящей в конце сентября конференции партии тори противники Мэй навяжут ей серьезный бой, из которого не факт, что она выйдет победителем. Фаворит букмекеров в качестве возможного сменщика нынешнего премьера, бывший министр иностранных дел Британии Борис Джонсон намерен выступить с альтернативным докладом, который не оставит камня на камне от взглядов главы правительства на у... [truncated]
+Entity: брексит
+
+Provide ONLY the entity type code:"
+bg_brexit_bg.txt_file_1497.txt,EurActiv,PRO,"Analyze this text and classify entity ""EurActiv"" as PER, ORG, LOC, EVT, or PRO:
+
+Text: 09:07 Тони Блеър: Правим грешка с Брекзит, ако излезем от ЕС, ще станем по-бедни
+
+Бившият британски премиер Тони Блеър предупреди британците, че времето в което те могат да спрат Брекзит изтича, съобщава EurActiv. Според Блеър, който бе министър-председател, избран от редиците на Лейбъристката партия в периода 1997-2007 г., страната му ще бъде по-бедна и по-слаба ако излезе от ЕС, предава Фокус. „Правим грешка, която съвременниците не могат да разберат и която бъдещите поколения няма да ни прост... [truncated]
+Entity: EurActiv
+
+Provide ONLY the entity type code:"
